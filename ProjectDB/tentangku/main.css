@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding: 0%;
+}
+
+.info{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    background-color: pink;
+}
+
+.kartu{
+    width: 50%;
+    height: 70%;
+    background-color: rgb(58, 144, 184);    
+}
+
+.cerpen{
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    width: 50%;
+    height: 100%;
+    background-color: rgb(63, 43, 7);
+}
+
+.kartu p{
+
+    font-family: monospace;
+    color: black;
+
+}
+
+.cerpen h1{
+    font-size: 33px;
+}
+
+.cerpen p{
+
+    font-size: 16px;
+
+}
+/* .copy{
+    background-color: yellowgreen;
+    display: block;
+    width: 50%;
+    height: 30%;
+} */
+
+.icon {
+
+    width: 100%;
+    height: 320px;
+    background-color: silver;
+    text-align: center;
+    
+}
+
+.header{
+    color: whitesmoke;
+    width: 100%;
+    height: 500px;
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.kartu{
+    font-family: sans-serif;
+    font-size: 19px;
+    color: PINK;
+}
+
+.header h1{
+    text-align:  center;
+    padding-top: 300px; 
+}
+
+.header img{
+    display: in;
+    align-self: center;
+}
+
+.profil{
+    display: block;
+    border-radius: 400px;
+    width: 400px;
+    height: 400px;
+    margin: 0px 0px 0px 475px;
+}
+
+.konten1{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(209, 208, 208);
+}
+
